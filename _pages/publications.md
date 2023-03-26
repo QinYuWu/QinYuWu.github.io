@@ -9,7 +9,7 @@ Li, L., **Wu, Q.** and Mao, T. (2020). Stochastic comparisons of largest-order s
 
 Mao, T., **Wu, Q.** and Hu, T. (2021). Further properties of fractional stochastic dominance. *Journal of Applied Probability*, **59**(1), 202--223.
 
-Zou, Z., **Wu, Q.**, Xia, Z. and Hu, T. (2023). Adjusted R\'{e}nyi entropic Value-at-Risk. *European Journal of Operational Research*, **306**(1), 255--268.
+Zou, Z., **Wu, Q.**, Xia, Z. and Hu, T. (2023). Adjusted Renyi entropic Value-at-Risk. *European Journal of Operational Research*, **306**(1), 255--268.
 
 **Wu, Q.** (2022). Second-order stochastic dominance with respect to rank-dependent utility model. *Journal of University of Science and Technology of China*, forthcoming.
 
