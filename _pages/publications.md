@@ -5,11 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **Wang, Q.**, Wang, R. and Ziegel, J. (2022). E-backtesting. Preprint. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2209.00991).
-* Han, X., **Wang, Q.**, Wang, R. and Xia, J. (2021). Cash-subadditive risk measures without quasi-convexity. Preprint. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2110.12198#)
-* Pesenti, S., **Wang, Q.** and Wang, R. (2020). Optimizing distortion riskmetrics with distributional uncertainty. Preprint. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2011.04889)
-* **Wang, Q.**, Wang, R. and Zitikis, R. (2022). Risk measures induced by efficient insurance contracts. *Insurance: Mathematics and Economics*, **103**, 56--65. [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2022.01.003)
-* Embrechts, P., Mao, T., **Wang, Q.** and Wang, R. (2021). Bayes risk, elicitability, and the Expected Shortfall. *Mathematical Finance*, **31**(4), 1190--1217. [[<span style="color:green">Journal</span>]](https://onlinelibrary.wiley.com/doi/full/10.1111/mafi.12313)
-* **Wang, Q.**, Wang, R. and Wei, Y.  (2020). Distortion riskmetrics on general spaces. *ASTIN Bulletin*, **50**(4), 827--851. [[<span style="color:green">Journal</span>]](https://doi.org/10.1017/asb.2020.14) 
-* **Wang, Q.** and Kwok, Y. K. (2020). Real option signaling games of debt financing using equity guarantee swaps. *International Journal of Theoretical and Applied Finance*, **23**(5), 2050036. [[<span style="color:green">Journal</span>]](https://doi.org/10.1142/S0219024920500363)
-* **Wang, Q.** and Kwok, Y. K. (2019). Signaling game models of equity financing under information asymmetry and finite project life. *International Journal of Financial Engineering*, **6**(1), 1950002. [[<span style="color:green">Journal</span>]](https://www.worldscientific.com/doi/10.1142/S2424786319500026)
+Li, L., **Wu, Q.** and Mao, T. (2020). Stochastic comparisons of largest-order statistics for proportional reversed hazard rate model and applications. *Journal of Applied Probability*, **57**(3), 832--852.
+
+Mao, T., **Wu, Q.** and Hu, T. (2021). Further properties of fractional stochastic dominance. *Journal of Applied Probability*, **59**(1), 202--223.
+
+Zou, Z., **Wu, Q.**, Xia, Z. and Hu, T. (2023). Adjusted R\'{e}nyi entropic Value-at-Risk. *European Journal of Operational Research*, **306**(1), 255--268.
+
+**Wu, Q.** (2022). Second-order stochastic dominance with respect to rank-dependent utility model. *Journal of University of Science and Technology of China*, forthcoming.
+
+Han, X., Wang, B., Wang, R. and **Wu, Q.** (2021). Risk concentration and the mean-Expected Shortfall criterion. *Mathematical Finance*, minor revision. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2108.05066).
+
+**Wu, Q.**, Mao, T. and Hu, T. (2020). Generalized optimized certainty equivalent with applications in the rank-dependent utility model. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694866).
+
+Wang, R. and **Wu, Q.** (2020). Dependence and risk attitudes: An equivalence. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707709).
+
+Mao, T., Wang, R. and **Wu, Q.** (2022). Model aggregation for risk evaluation and robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2201.06370). 
+
+**Wu, Q.**, Yang, F. and Zhang, P. (2022). Conditional generalized quantiles based on expected utility model and equivalent characterization of properties. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.12420). 
+
+ Wang, R. and **Wu, Q.** (2022). On the equivalence between concavity and quasi-concavity in probabilistic mixtures. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2209.03425).  
+
+**Wu, Q.**, Li, Y. M. J. and Mao, T. (2022). On Generalization and Regularization via Wasserstein Distributionally Robust Optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716). 
+
+Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2023). Risk Aversion and Hedging Motives. Working paper.
+
+Bellini, F., Mao, T., Wang, R. and **Wu, Q.** (2023). Expectile preferences. Working paper.
+
+
+
