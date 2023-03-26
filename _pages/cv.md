@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Qiuqi Wang"
+title: "Qinyu Wu"
 permalink: /cv/
 author_profile: true
 redirect_from:
