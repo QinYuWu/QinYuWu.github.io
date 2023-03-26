@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://qwangan.github.io/images/Photo1.jpeg" alt="Photo" style="width: 450px;"/> 
+  <img src="https://qinyuwu.github.io/images/Photo1.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
 # About Me
