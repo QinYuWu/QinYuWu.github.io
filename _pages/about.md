@@ -14,7 +14,7 @@ redirect_from:
 
 # About Me
 * I am a first-year postdoctoral fellow in Actuarial Science at the University of Waterloo (UW), supervised by Prof. [Ruodu Wang](http://sas.uwaterloo.ca/~wang/).
-* I received my Ph.D. Degree in Statistics at the University of Science and Technology of China (USTC), supervised by Prof. [Tian tian Mao] (https://bs.ustc.edu.cn/chinese/profile-155.html) and Prof. Tai zhong Hu (https://bs.ustc.edu.cn/chinese/profile-80.html).
+* I received my Ph.D. Degree in Statistics at the University of Science and Technology of China (USTC), supervised by Prof. Tian tian Mao and Prof. Tai zhong Hu.
 * My research interests include risk management, mathematical finance, decision theory and robust optimization.
 
 
