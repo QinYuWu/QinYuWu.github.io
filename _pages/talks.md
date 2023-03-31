@@ -14,4 +14,4 @@ author_profile: true
 
 
 # Peer-review Service
-* Mathematical Finance, Mathematics and Financial Economics, Mathematics of Operations Research
+* Mathematics and Financial Economics, Mathematics of Operations Research
