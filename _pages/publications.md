@@ -13,7 +13,7 @@ Zou, Z., **Wu, Q.**, Xia, Z. and Hu, T. (2023). Adjusted Renyi entropic Value-at
 
 **Wu, Q.** (2022). Second-order stochastic dominance with respect to rank-dependent utility model. *Journal of University of Science and Technology of China*, forthcoming.
 
-Han, X., Wang, B., Wang, R. and **Wu, Q.** (2021). Risk concentration and the mean-Expected Shortfall criterion. *Mathematical Finance*, minor revision. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2108.05066).
+Han, X., Wang, B., Wang, R. and **Wu, Q.** (2021). Risk concentration and the mean-Expected Shortfall criterion. *Mathematical Finance*, accepted. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2108.05066).
 
 **Wu, Q.**, Mao, T. and Hu, T. (2020). Generalized optimized certainty equivalent with applications in the rank-dependent utility model. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694866).
 
@@ -25,9 +25,9 @@ Mao, T., Wang, R. and **Wu, Q.** (2022). Model aggregation for risk evaluation a
 
  Wang, R. and **Wu, Q.** (2022). On the equivalence between concavity and quasi-concavity in probabilistic mixtures. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2209.03425).  
 
-**Wu, Q.**, Li, Y. M. J. and Mao, T. (2022). On Generalization and Regularization via Wasserstein Distributionally Robust Optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716). 
+**Wu, Q.**, Li, Y. M. J. and Mao, T. (2022). On generalization and regularization via Wasserstein distributionally robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716). 
 
-Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2023). Risk Aversion and Hedging Motives. Working paper.
+Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2023). Risk aversion and hedging motives. Working paper.
 
 Bellini, F., Mao, T., Wang, R. and **Wu, Q.** (2023). Expectile preferences. Working paper.
 
