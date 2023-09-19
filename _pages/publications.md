@@ -13,7 +13,7 @@ Zou, Z., **Wu, Q.**, Xia, Z. and Hu, T. (2023). Adjusted Renyi entropic Value-at
 
 **Wu, Q.** (2022). Second-order stochastic dominance with respect to rank-dependent utility model. *Journal of University of Science and Technology of China*, **52**(2), 1--6.
 
-Han, X., Wang, B., Wang, R. and **Wu, Q.** (2021). Risk concentration and the mean-Expected Shortfall criterion. *Mathematical Finance*, accepted. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2108.05066).
+Han, X., Wang, B., Wang, R. and **Wu, Q.** (2021). Risk concentration and the mean-Expected Shortfall criterion. *Mathematical Finance*, forthcoming. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2108.05066).
 
 **Wu, Q.**, Mao, T. and Hu, T. (2020). Generalized optimized certainty equivalent with applications in the rank-dependent utility model. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694866).
 
