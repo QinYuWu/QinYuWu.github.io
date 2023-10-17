@@ -27,7 +27,7 @@ Mao, T., Wang, R. and **Wu, Q.** (2022). Model aggregation for risk evaluation a
 
 **Wu, Q.**, Li, Y. M. J. and Mao, T. (2022). On generalization and regularization via Wasserstein distributionally robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716). 
 
-Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2023). Risk aversion and hedging motives. Working paper.
+Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2023). Risk aversion and insurance propensity. [[<span style="color:green">arXiv</span>]] (https://arxiv.org/pdf/2310.09173).
 
 Bellini, F., Mao, T., Wang, R. and **Wu, Q.** (2023). Expectile preferences. Working paper.
 
