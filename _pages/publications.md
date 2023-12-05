@@ -29,6 +29,8 @@ Mao, T., Wang, R. and **Wu, Q.** (2022). Model aggregation for risk evaluation a
 
 Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2023). Risk aversion and insurance propensity. [[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2310.09173).
 
+Han, X., Wang, R. and **Wu, Q.** (2023). Monotonic mean-deviation risk measures. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2312.01034). 
+
 Bellini, F., Mao, T., Wang, R. and **Wu, Q.** (2023). Expectile preferences. Working paper.
 
 
