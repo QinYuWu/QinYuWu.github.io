@@ -15,7 +15,7 @@ Zou, Z., **Wu, Q.**, Xia, Z. and Hu, T. (2023). Adjusted Renyi entropic Value-at
 
 Han, X., Wang, B., Wang, R. and **Wu, Q.** (2021). Risk concentration and the mean-Expected Shortfall criterion. *Mathematical Finance*, forthcoming. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2108.05066).
 
-**Wu, Q.**, Mao, T. and Hu, T. (2020). Generalized optimized certainty equivalent with applications in the rank-dependent utility model. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694866).
+**Wu, Q.**, Mao, T. and Hu, T. (2020). Generalized optimized certainty equivalent with applications in the rank-dependent utility model. Accected by SIAM Journal on Financial Mathematics. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694866).
 
 Wang, R. and **Wu, Q.** (2020). Dependence and risk attitudes: An equivalence. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707709).
 
