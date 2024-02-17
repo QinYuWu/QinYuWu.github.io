@@ -23,7 +23,7 @@ Mao, T., Wang, R. and **Wu, Q.** (2022). Model aggregation for risk evaluation a
 
 **Wu, Q.**, Yang, F. and Zhang, P. (2022). Conditional generalized quantiles based on expected utility model and equivalent characterization of properties. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.12420). 
 
- Wang, R. and **Wu, Q.** (2022). On the equivalence between concavity and quasi-concavity in probabilistic mixtures. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2209.03425).  
+ Wang, R. and **Wu, Q.** (2022). Probabilistic risk aversion for generalized rank-dependent functions. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2209.03425).  
 
 **Wu, Q.**, Li, Y. M. J. and Mao, T. (2022). On generalization and regularization via Wasserstein distributionally robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716). 
 
