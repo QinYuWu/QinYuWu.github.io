@@ -15,4 +15,4 @@ author_profile: true
   
 
 # Peer-review Service
-* Management Science, Mathematics of Operations Research, Journal of Mathematical Economics, Mathematics and Financial Economics
+* Management Science, Operations Research, Mathematics of Operations Research, Journal of Mathematical Economics, Mathematics and Financial Economics
