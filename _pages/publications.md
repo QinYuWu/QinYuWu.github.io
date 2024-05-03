@@ -27,13 +27,13 @@ Mao, T., Wang, R. and **Wu, Q.** (2022). Model aggregation for risk evaluation a
 
 **Wu, Q.**, Li, Y. M. J. and Mao, T. (2022). On generalization and regularization via Wasserstein distributionally robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716). 
 
-Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2023). Risk aversion and insurance propensity. [[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2310.09173).
+Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2023). Risk aversion and insurance propensity. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2310.09173).
 
 Han, X., Wang, R. and **Wu, Q.** (2023). Monotonic mean-deviation risk measures. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2312.01034). 
 
-Champers, C., Miller, A., Wang, R. and **Wu, Q.** (2024). Max-stability under first-order stochastic dominance. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2403.13138.).
+Champers, C., Miller, A., Wang, R. and **Wu, Q.** (2024). Max-stability under first-order stochastic dominance. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2403.13138).
 
-Bellini, F., Mao, T., Wang, R. and **Wu, Q.** (2023). Expectile preferences. Working paper.
+Bellini, F., Mao, T., Wang, R. and **Wu, Q.** (2023). Expectile preferences. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.17751).
 
 
 
