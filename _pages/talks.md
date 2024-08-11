@@ -13,7 +13,8 @@ author_profile: true
 * 25th International Congress On Insurance: Mathematics and Economics (online), Sun Yat-sen University, Guangzhou, China (July 12th-15th 2022).
 * Weekly Seminars on Risk Management and Actuarial Science, University of Waterloo (Nov 2023)
 * International Conference on Insurance and Actuarial Science 2024, Nankai University, Tianjin, China (June 2024)
-  
+* 27th International Congress on Insurance: Mathematics and Economics, DePaul University, Chicago, American (July 2024)
+* 25th International Symposium on Mathematical Programming, Montréal, Canada (July 2024)
 
 # Peer-review Service
 * Management Science, Operations Research, Mathematics of Operations Research, Journal of Mathematical Economics, Mathematics and Financial Economics
