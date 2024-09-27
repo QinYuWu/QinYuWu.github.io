@@ -17,7 +17,7 @@ Han, X., Wang, B., Wang, R. and **Wu, Q.** (2023). Risk concentration and the me
 
 **Wu, Q.**, Mao, T. and Hu, T. (2024). Generalized optimized certainty equivalent with applications in the rank-dependent utility model. *SIAM Journal on Financial Mathematics*, **15**(1), 255-294. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694866).
 
- Wang, R. and **Wu, Q.** (2022). Probabilistic risk aversion for generalized rank-dependent functions. Accepted by *Economic Theory*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2209.03425).  
+ Wang, R. and **Wu, Q.** (2024). Probabilistic risk aversion for generalized rank-dependent functions. Accepted by *Economic Theory*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2209.03425).  
 
 Wang, R. and **Wu, Q.** (2020). Dependence and risk attitudes: An equivalence. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707709).
 
