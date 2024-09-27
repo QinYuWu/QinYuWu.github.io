@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Li, L., **Wu, Q.*** and Mao, T. (2020). Stochastic comparisons of largest-order statistics for proportional reversed hazard rate model and applications. *Journal of Applied Probability*, **57**(3), 832-852.
+Li, L., **Wu, Q.** and Mao, T. (2020). Stochastic comparisons of largest-order statistics for proportional reversed hazard rate model and applications. *Journal of Applied Probability*, **57**(3), 832-852.
 
 Mao, T., **Wu, Q.** and Hu, T. (2021). Further properties of fractional stochastic dominance. *Journal of Applied Probability*, **59**(1), 202-223.
 
