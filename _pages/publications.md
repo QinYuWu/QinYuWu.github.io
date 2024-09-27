@@ -17,13 +17,13 @@ Han, X., Wang, B., Wang, R. and **Wu, Q.** (2023). Risk concentration and the me
 
 **Wu, Q.**, Mao, T. and Hu, T. (2024). Generalized optimized certainty equivalent with applications in the rank-dependent utility model. *SIAM Journal on Financial Mathematics*, forthcoming. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694866).
 
+ Wang, R. and **Wu, Q.** (2022). Probabilistic risk aversion for generalized rank-dependent functions. Accepted by *Economic Theory*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2209.03425).  
+
 Wang, R. and **Wu, Q.** (2020). Dependence and risk attitudes: An equivalence. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707709).
 
 Mao, T., Wang, R. and **Wu, Q.** (2022). Model aggregation for risk evaluation and robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2201.06370). 
 
 **Wu, Q.**, Yang, F. and Zhang, P. (2022). Conditional generalized quantiles based on expected utility model and equivalent characterization of properties. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.12420). 
-
- Wang, R. and **Wu, Q.** (2022). Probabilistic risk aversion for generalized rank-dependent functions. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2209.03425).  
 
 **Wu, Q.**, Li, Y. M. J. and Mao, T. (2022). On generalization and regularization via Wasserstein distributionally robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716). 
 
