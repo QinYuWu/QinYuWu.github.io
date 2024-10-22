@@ -15,6 +15,7 @@ author_profile: true
 * International Conference on Insurance and Actuarial Science 2024, Nankai University, Tianjin, China (June 2024)
 * 27th International Congress on Insurance: Mathematics and Economics, DePaul University, Chicago, USA (July 2024)
 * 25th International Symposium on Mathematical Programming, Montréal, Canada (July 2024)
+* 5th Waterloo Student Conference in Statistics, Actuarial Science and Finance, Waterloo, Canada (Oct 2024)
 
 # Peer-review Service
 * Management Science, Operations Research, Mathematics of Operations Research, Journal of Mathematical Economics, Mathematics and Financial Economics
