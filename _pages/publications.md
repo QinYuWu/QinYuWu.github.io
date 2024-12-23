@@ -37,7 +37,7 @@ Bellini, F., Mao, T., Wang, R. and **Wu, Q.** (2024). Disappointment concordance
 
 Wang, R. and **Wu, Q.** (2024). The reference interval in higher-order stochastic dominance. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2411.15401). 
 
-Wang, R. and **Wu, Q.** (2024). Prudence and higher-order risk attitudes in the rank-dependent utility model. [[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2412.15350).
+Wang, R. and **Wu, Q.** (2024). Prudence and higher-order risk attitudes in the rank-dependent utility model. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2412.15350).
 
 
 
