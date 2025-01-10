@@ -33,7 +33,7 @@ Han, X., Wang, R. and **Wu, Q.** (2023). Monotonic mean-deviation risk measures.
 
 Champers, C., Miller, A., Wang, R. and **Wu, Q.** (2024). Max-stability under first-order stochastic dominance. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2403.13138).
 
-Bellini, F., Mao, T., Wang, R. and **Wu, Q.** (2024). Disappointment concordance and duet expectiles. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.17751).
+Bellini, F., Maccheroni, F., Mao, T., Wang, R. and **Wu, Q.** (2024). Disappointment concordance and duet expectiles. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.17751).
 
 Wang, R. and **Wu, Q.** (2024). The reference interval in higher-order stochastic dominance. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2411.15401). 
 
