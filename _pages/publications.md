@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications & Working Papers"
 permalink: /publications/
 author_profile: true
 ---
+
+
+**Publications**
 
 
 Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2023). Risk aversion and insurance propensity. Accepted by *American Economic Review*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2310.09173).
@@ -24,12 +27,7 @@ Li, L., **Wu, Q.** and Mao, T. (2020). Stochastic comparisons of largest-order s
 
 
 
----
-layout: archive
-title: "Working Papers"
-permalink: /publications/
-author_profile: true
----
+**Working Papers**
 
 Wang, R. and **Wu, Q.** (2020). Dependence and risk attitudes: An equivalence. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707709).
 
