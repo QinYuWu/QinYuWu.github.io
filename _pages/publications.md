@@ -1,6 +1,6 @@
 ---
 layout: archive
-%title: "Publications & Working Papers"
+title: "Publications & Working Papers"
 permalink: /publications/
 author_profile: true
 ---
