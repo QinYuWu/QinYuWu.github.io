@@ -6,10 +6,6 @@ author_profile: true
 
 
 # **Publications**
-{: .fs-3 .fw-bold}
-
-## **Journal Publications**
-{: .fs-2 .fw-bold}
 
 
 Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2023). Risk aversion and insurance propensity. Accepted by *American Economic Review*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2310.09173).
