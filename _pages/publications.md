@@ -26,7 +26,7 @@ Li, L., **Wu, Q.** and Mao, T. (2020). Stochastic comparisons of largest-order s
 
 
 
-## **Working Papers**
+# **Working Papers**
 
 Wang, R. and **Wu, Q.** (2020). Dependence and risk attitudes: An equivalence. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707709).
 
