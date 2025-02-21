@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications and Accepted Papers"
+title: "Publications and Accepted Papers (* represents corresponding author)"
 permalink: /publications/
 author_profile: true
 ---
 
-Han, X., Wang, R. and **Wu, Q.** (2025). Monotonic mean-deviation risk measures. Accepted by *Finance and Stochastics*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2312.01034). 
+Han, X., Wang, R. and **Wu, Q.*** (2025). Monotonic mean-deviation risk measures. Accepted by *Finance and Stochastics*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2312.01034). 
 
 Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2025). Risk aversion and insurance propensity. Accepted by *American Economic Review*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2310.09173).
 
