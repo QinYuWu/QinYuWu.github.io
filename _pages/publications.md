@@ -9,7 +9,7 @@ Han, X., Wang, R. and **Wu, Q.*** (2025). Monotonic mean-deviation risk measures
 
 Maccheroni, F*., Marinacci, M., Wang, R. and **Wu, Q.** (2025). Risk aversion and insurance propensity. Accepted by *American Economic Review*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2310.09173).
 
-Wang, R. and **Wu, Q.** (2024). Probabilistic risk aversion for generalized rank-dependent functions. *Economic Theory*, forthcoming. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2209.03425).  
+Wang, R. and **Wu, Q.*** (2024). Probabilistic risk aversion for generalized rank-dependent functions. *Economic Theory*, forthcoming. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2209.03425).  
 
 **Wu, Q.**, Mao, T. and Hu, T. (2024). Generalized optimized certainty equivalent with applications in the rank-dependent utility model. *SIAM Journal on Financial Mathematics*, **15**(1), 255-294. 
 
