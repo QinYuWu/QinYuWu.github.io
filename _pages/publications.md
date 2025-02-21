@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+Han, X., Wang, R. and **Wu, Q.** (2025). Monotonic mean-deviation risk measures. Accepted by *Finance and Stochastics*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2312.01034). 
 
 Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2025). Risk aversion and insurance propensity. Accepted by *American Economic Review*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2310.09173).
 
@@ -33,8 +34,6 @@ Mao, T., Wang, R. and **Wu, Q.** (2022). Model aggregation for risk evaluation a
 **Wu, Q.**, Yang, F. and Zhang, P. (2022). Conditional generalized quantiles based on expected utility model and equivalent characterization of properties. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.12420). 
 
 **Wu, Q.**, Li, Y. M. J. and Mao, T. (2022). On generalization and regularization via Wasserstein distributionally robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716). 
-
-Han, X., Wang, R. and **Wu, Q.** (2023). Monotonic mean-deviation risk measures. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2312.01034). 
 
 Champers, C., Miller, A., Wang, R. and **Wu, Q.** (2024). Max- and min-stability under first-order stochastic dominance. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2403.13138).
 
