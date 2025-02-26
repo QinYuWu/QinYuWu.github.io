@@ -20,6 +20,6 @@ redirect_from:
 
 
 # Contacts
-* Email: wu051555@mail.ustc.edu.cn; q35wu@uwaterloo.ca
+* Email: wu051555@mail.ustc.edu.cn; qwu6@uottawa.ca
 * Office: Rm 3102, Department of Statistics and Actuarial Science
-* Address: Mathematics 3, University of Waterloo, 200 University Avenue West, Waterloo, Ontario, Canada N2L 3G1
+* Address: Telfer School of Management, University of Ottawa, 55 Laurier Avenue East, Ottawa, Ontario, Canada K1N 6N5
