@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[My Curriculum Vitae [PDF]](https://QinYuWu.github.io/CV_onli.pdf)
+[My Curriculum Vitae [PDF]](https://QinYuWu.github.io/CV_online.pdf)
 
 <!-- <embed src="http://QinYuWu.com/files/Curriculum_Vitae.pdf" width="650" height="1800" type='application/pdf'> -->
