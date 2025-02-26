@@ -13,7 +13,8 @@ redirect_from:
 </p>
 
 # About Me
-* I am a first-year postdoctoral fellow in Actuarial Science at the University of Waterloo (UW), supervised by Prof. [Ruodu Wang](http://sas.uwaterloo.ca/~wang/).
+* I will be a postdoctoral fellow at Telfer School of Management, University of Ottawa, supervised by Prof. [Jonathan Yu-Meng Li](http://sas.uwaterloo.ca/~wang/](https://telfer.uottawa.ca/en/directory/jonathan-yumeng-li/).  
+* I completed a two-year postdoctoral fellowship in Actuarial Science at the University of Waterloo (UW), supervised by Prof. [Ruodu Wang](http://sas.uwaterloo.ca/~wang/).
 * I received my Ph.D. Degree in Statistics at the University of Science and Technology of China (USTC), supervised by Prof. Tiantian Mao and Prof. Taizhong Hu.
 * My research interests include risk management, mathematical finance, decision theory and robust optimization.
 
