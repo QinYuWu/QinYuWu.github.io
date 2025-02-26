@@ -21,5 +21,5 @@ redirect_from:
 
 # Contacts
 * Email: wu051555@mail.ustc.edu.cn; qwu6@uottawa.ca
-<* Office: Rm 3102, Department of Statistics and Actuarial Science>
+<!--* Office: Rm 3102, Department of Statistics and Actuarial Science-->
 * Address: Telfer School of Management, University of Ottawa, 55 Laurier Avenue East, Ottawa, Ontario, Canada K1N 6N5
