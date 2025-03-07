@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+Wang, R. and **Wu, Q.*** (2024). The reference interval in higher-order stochastic dominance. Accepted by *Economic Theory Bulletin*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2411.15401). 
+
 Han, X., Wang, R. and **Wu, Q.*** (2025). Monotonic mean-deviation risk measures. Accepted by *Finance and Stochastics*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2312.01034). 
 
 Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2025). Risk aversion and insurance propensity. Accepted by *American Economic Review*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2310.09173).
@@ -39,7 +42,6 @@ Champers, C., Miller, A., Wang, R. and **Wu, Q.*** (2024). Max- and min-stabilit
 
 Bellini, F., Mao, T., Wang, R. and **Wu, Q.*** (2024). Disappointment concordance and duet expectiles. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.17751).
 
-Wang, R. and **Wu, Q.*** (2024). The reference interval in higher-order stochastic dominance. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2411.15401). 
 
 Wang, R. and **Wu, Q.*** (2024). Prudence and higher-order risk attitudes in the rank-dependent utility model. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2412.15350).
 
