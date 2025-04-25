@@ -18,4 +18,4 @@ author_profile: true
 * 5th Waterloo Student Conference in Statistics, Actuarial Science and Finance, Waterloo, Canada (Oct 2024)
 
 # Peer-review Service
-* Management Science, Operations Research, Mathematics of Operations Research, Journal of Mathematical Economics, Mathematics and Financial Economics
+* Management Science, Operations Research, Mathematics of Operations Research, Journal of Mathematical Economics, Mathematics and Financial Economics, ASTIN Bulletin, SIAM Journal on Financial Mathematics
