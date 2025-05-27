@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+Mao, T., Wang, R. and **Wu, Q.*** (2025). Model aggregation for risk evaluation and robust optimization. Accepted by *Management Science*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2201.06370). 
 
 Wang, R. and **Wu, Q.*** (2025). The reference interval in higher-order stochastic dominance. Accepted by *Economic Theory Bulletin*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2411.15401). 
 
@@ -31,8 +32,6 @@ Li, L., **Wu, Q.** and Mao, T.* (2020). Stochastic comparisons of largest-order 
 # **Working Papers**
 
 Wang, R. and **Wu, Q.*** (2020). Dependence and risk attitudes: An equivalence. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707709).
-
-Mao, T., Wang, R. and **Wu, Q.*** (2022). Model aggregation for risk evaluation and robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2201.06370). 
 
 **Wu, Q.**, Yang, F. and Zhang, P. (2022). Conditional generalized quantiles based on expected utility model and equivalent characterization of properties. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.12420). 
 
