@@ -35,12 +35,11 @@ Wang, R. and **Wu, Q.*** (2020). Dependence and risk attitudes: An equivalence. 
 
 **Wu, Q.**, Yang, F. and Zhang, P. (2022). Conditional generalized quantiles based on expected utility model and equivalent characterization of properties. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.12420). 
 
-**Wu, Q.**, Li, Y. M. J. and Mao, T.* (2022). On generalization and regularization via Wasserstein distributionally robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716). 
+**Wu, Q.**, Li, Y. M. J. and Mao, T. (2022). On generalization and regularization via Wasserstein distributionally robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716). 
 
 Champers, C., Miller, A., Wang, R. and **Wu, Q.*** (2024). Max- and min-stability under first-order stochastic dominance. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2403.13138).
 
 Bellini, F., Mao, T., Wang, R. and **Wu, Q.*** (2024). Disappointment concordance and duet expectiles. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.17751).
-
 
 Wang, R. and **Wu, Q.*** (2024). Prudence and higher-order risk attitudes in the rank-dependent utility model. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2412.15350).
 
