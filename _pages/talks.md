@@ -16,7 +16,7 @@ author_profile: true
 * 27th International Congress on Insurance: Mathematics and Economics, DePaul University, Chicago, USA (July 2024)
 * 25th International Symposium on Mathematical Programming, Montréal, Canada (July 2024)
 * 5th Waterloo Student Conference in Statistics, Actuarial Science and Finance, Waterloo, Canada (Oct 2024)
-* 66th annual Canadian Operations Research Society conference, Edmonton, Canada (Jun 2025), as the chair in the session of distributionally robust optimization 
+* 66th annual Canadian Operations Research Society conference, Edmonton, Canada (Jun 2025), as the chair in the session of Distributionally Robust Optimization 
 
 # Peer-review Service
 * Management Science, Operations Research, Mathematics of Operations Research, Journal of Mathematical Economics, Mathematics and Financial Economics, ASTIN Bulletin, SIAM Journal on Financial Mathematics
