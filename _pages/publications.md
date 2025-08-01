@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Champers, C., Miller, A., Wang, R. and **Wu, Q.*** (2024). Max- and min-stability under first-order stochastic dominance. *Mathematics and Financial Economics*, forthcoming. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2403.13138).
+Champers, C., Miller, A., Wang, R. and **Wu, Q.*** (2025). Max- and min-stability under first-order stochastic dominance. *Mathematics and Financial Economics*, forthcoming. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2403.13138).
 
 Mao, T., Wang, R. and **Wu, Q.*** (2025). Model aggregation for risk evaluation and robust optimization. *Management Science*, forthcoming. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2201.06370). 
 
