@@ -33,7 +33,7 @@ Li, L., **Wu, Q.** and Mao, T. (2020). Stochastic comparisons of largest-order s
 
 # **Working Papers**
 
-Bellini, F., Maccheroni, F., Mao, T., Wang, R. and **Wu, Q.** (2025). Disappointment aversion and expectiles.[[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2508.05541).
+Bellini, F., Maccheroni, F., Mao, T., Wang, R. and **Wu, Q.** (2025). Disappointment aversion and expectiles. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2508.05541).
 
 Wang, R. and **Wu, Q.*** (2024). Prudence and higher-order risk attitudes in the rank-dependent utility model. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2412.15350).
 
