@@ -33,15 +33,24 @@ Li, L., **Wu, Q.** and Mao, T. (2020). Stochastic comparisons of largest-order s
 
 # **Working Papers**
 
-Wang, R. and **Wu, Q.*** (2020). Dependence and risk attitudes: An equivalence. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707709).
+Bellini, F., Maccheroni, F., Mao, T., Wang, R. and **Wu, Q.** (2025). Disappointment aversion and expectiles.[[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2508.05541).
 
-**Wu, Q.**, Yang, F. and Zhang, P. (2022). Conditional generalized quantiles based on expected utility model and equivalent characterization of properties. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.12420). 
-
-**Wu, Q.**, Li, Y. M. J. and Mao, T. (2022). On generalization and regularization via Wasserstein distributionally robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716). 
+Wang, R. and **Wu, Q.*** (2024). Prudence and higher-order risk attitudes in the rank-dependent utility model. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2412.15350).
 
 Bellini, F., Mao, T., Wang, R. and **Wu, Q.*** (2024). Disappointment concordance and duet expectiles. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.17751).
 
-Wang, R. and **Wu, Q.*** (2024). Prudence and higher-order risk attitudes in the rank-dependent utility model. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2412.15350).
+**Wu, Q.**, Li, Y. M. J. and Mao, T. (2022). On generalization and regularization via Wasserstein distributionally robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716). 
+
+**Wu, Q.**, Yang, F. and Zhang, P. (2022). Conditional generalized quantiles based on expected utility model and equivalent characterization of properties. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.12420). 
+
+Wang, R. and **Wu, Q.*** (2020). Dependence and risk attitudes: An equivalence. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707709).
+
+
+
+
+
+
+
 
 
 
