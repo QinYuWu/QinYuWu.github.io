@@ -22,4 +22,4 @@ redirect_from:
 
 # Contacts
 * Email: wu051555@mail.ustc.edu.cn; qinyu.wu@yale.edu
-* Address: Rm 6140, Telfer School of Management, University of Ottawa, 55 Laurier Avenue East, Ottawa, Ontario, Canada K1N 6N5
+* Address: Rm 137, 28 Hillhouse Avenue, New Haven CT 06511, USA
