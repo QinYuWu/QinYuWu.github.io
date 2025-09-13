@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Wu, Q.**, Li, Y. M. J. and Mao, T.* (2025). On generalization and regularization via Wasserstein distributionally robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716), Management Science, forthcoming.
+**Wu, Q.**, Li, Y. M. J. and Mao, T.* (2025). On generalization and regularization via Wasserstein distributionally robust optimization. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716), *Management Science*, forthcoming.
 
 Champers, C., Miller, A., Wang, R. and **Wu, Q.*** (2025). Max- and min-stability under first-order stochastic dominance. *Mathematics and Financial Economics*, forthcoming. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2403.13138).
 
