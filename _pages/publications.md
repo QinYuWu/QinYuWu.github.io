@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Wang, R. and **Wu, Q.*** (2024). Prudence and higher-order risk attitudes in the rank-dependent utility model. Accepted by *Journal of Mathematical Economics*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2412.15350).
+
 **Wu, Q.**, Li, Y. M. J. and Mao, T.* (2025). On generalization and regularization via Wasserstein distributionally robust optimization. Accepted by *Management Science*. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2212.05716).
 
 Champers, C., Miller, A., Wang, R. and **Wu, Q.*** (2025). Max- and min-stability under first-order stochastic dominance. *Mathematics and Financial Economics*, forthcoming. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2403.13138).
@@ -39,7 +41,6 @@ Han, X., Wang, R. and **Wu, Q.** (2025). Higher-order Gini indices: An axiomatic
 
 Bellini, F., Maccheroni, F., Mao, T., Wang, R. and **Wu, Q.** (2025). Disappointment aversion and expectiles. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2508.05541).
 
-Wang, R. and **Wu, Q.*** (2024). Prudence and higher-order risk attitudes in the rank-dependent utility model. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2412.15350).
 
 Bellini, F., Mao, T., Wang, R. and **Wu, Q.*** (2024). Disappointment concordance and duet expectiles. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.17751).
 
