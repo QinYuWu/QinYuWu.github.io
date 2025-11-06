@@ -13,7 +13,7 @@ Champers, C., Miller, A., Wang, R. and **Wu, Q.*** (2025). Max- and min-stabilit
 
 Mao, T., Wang, R. and **Wu, Q.*** (2025). Model aggregation for risk evaluation and robust optimization. *Management Science*, forthcoming. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2201.06370). 
 
-Wang, R. and **Wu, Q.*** (2025). The reference interval in higher-order stochastic dominance. *Economic Theory Bulletin*, forthcoming. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2411.15401). 
+Wang, R. and **Wu, Q.*** (2025). The reference interval in higher-order stochastic dominance. *Economic Theory Bulletin*, forthcoming. [[<span style="color:green">DOI</span>]](https://doi.org/10.1007/s40505-025-00293-1). 
 
 Han, X., Wang, R. and **Wu, Q.*** (2025). Monotonic mean-deviation risk measures. *Finance and Stochastics*, forthcoming. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2312.01034). 
 
