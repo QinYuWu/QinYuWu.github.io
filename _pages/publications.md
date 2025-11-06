@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Wang, R. and **Wu, Q.*** (2025). Prudence and higher-order risk attitudes in the rank-dependent utility model. Accepted by *Journal of Mathematical Economics*, **121**, 103181.
+Wang, R. and **Wu, Q.*** (2025). Prudence and higher-order risk attitudes in the rank-dependent utility model. *Journal of Mathematical Economics*, **121**, 103181.
 
-**Wu, Q.**, Li, Y. M. J. and Mao, T.* (2025). On generalization and regularization via Wasserstein distributionally robust optimization. Accepted by *Management Science*. [[<span style="color:green">DOI</span>]](https://doi.org/10.1287/mnsc.2023.03895).
+**Wu, Q.**, Li, Y. M. J. and Mao, T.* (2025). On generalization and regularization via Wasserstein distributionally robust optimization. *Management Science*, forthcoming. [[<span style="color:green">DOI</span>]](https://doi.org/10.1287/mnsc.2023.03895).
 
 Champers, C., Miller, A., Wang, R. and **Wu, Q.*** (2025). Max- and min-stability under first-order stochastic dominance. *Mathematics and Financial Economics*, **19**, 641-659. 
 
