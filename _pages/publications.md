@@ -11,7 +11,7 @@ Wang, R. and **Wu, Q.*** (2025). Prudence and higher-order risk attitudes in the
 
 Champers, C., Miller, A., Wang, R. and **Wu, Q.*** (2025). Max- and min-stability under first-order stochastic dominance. *Mathematics and Financial Economics*, **19**, 641-659. 
 
-Mao, T., Wang, R. and **Wu, Q.*** (2025). Model aggregation for risk evaluation and robust optimization. *Management Science*, forthcoming. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2201.06370). 
+Mao, T., Wang, R. and **Wu, Q.*** (2025). Model aggregation for risk evaluation and robust optimization. *Management Science*, forthcoming. [[<span style="color:green">DOI</span>]](https://doi.org/10.1287/mnsc.2023.03523). 
 
 Wang, R. and **Wu, Q.*** (2025). The reference interval in higher-order stochastic dominance. *Economic Theory Bulletin*, 1-15.
 
