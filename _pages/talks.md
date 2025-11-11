@@ -19,4 +19,4 @@ author_profile: true
 * 66th annual Canadian Operations Research Society conference, Edmonton, Canada (Jun 2025), as the chair in the session of Distributionally Robust Optimization 
 
 # Peer-review Service
-* Management Science, Operations Research, Mathematics of Operations Research, Finance and Stochastics, SIAM Journal on Financial Mathematics, Journal of Mathematical Economics, Mathematics and Financial Economics, ASTIN Bulletin, European Actuarial Journal
+* Management Science, Operations Research, Mathematics of Operations Research, Journal on Computing, Finance and Stochastics, SIAM Journal on Financial Mathematics, Journal of Mathematical Economics, Mathematics and Financial Economics, ASTIN Bulletin, European Actuarial Journal
