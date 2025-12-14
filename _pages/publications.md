@@ -7,15 +7,15 @@ author_profile: true
 
 Wang, R. and **Wu, Q.*** (2025). Prudence and higher-order risk attitudes in the rank-dependent utility model. *Journal of Mathematical Economics*, **121**, 103181.
 
-**Wu, Q.**, Li, Y. M. J. and Mao, T.* (2025). On generalization and regularization via Wasserstein distributionally robust optimization. *Management Science*, forthcoming. [[<span style="color:green">DOI</span>]](https://doi.org/10.1287/mnsc.2023.03895).
+**Wu, Q.**, Li, Y. M. J. and Mao, T.* (2025). On generalization and regularization via Wasserstein distributionally robust optimization. *Management Science*, forthcoming. [[<span style="color:green">DOI</span>]](https://doi.org/10.1287/mnsc.2023.03895)
 
 Champers, C., Miller, A., Wang, R. and **Wu, Q.*** (2025). Max- and min-stability under first-order stochastic dominance. *Mathematics and Financial Economics*, **19**, 641-659. 
 
-Mao, T., Wang, R. and **Wu, Q.*** (2025). Model aggregation for risk evaluation and robust optimization. *Management Science*, forthcoming. [[<span style="color:green">DOI</span>]](https://doi.org/10.1287/mnsc.2023.03523). 
+Mao, T., Wang, R. and **Wu, Q.*** (2025). Model aggregation for risk evaluation and robust optimization. *Management Science*, forthcoming. [[<span style="color:green">DOI</span>]](https://doi.org/10.1287/mnsc.2023.03523) 
 
 Wang, R. and **Wu, Q.*** (2025). The reference interval in higher-order stochastic dominance. *Economic Theory Bulletin*, 1-15.
 
-Han, X., Wang, R. and **Wu, Q.*** (2025). Monotonic mean-deviation risk measures. *Finance and Stochastics*, forthcoming. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2312.01034). 
+Han, X., Wang, R. and **Wu, Q.*** (2025). Monotonic mean-deviation risk measures. *Finance and Stochastics*, forthcoming. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2312.01034) 
 
 Maccheroni, F., Marinacci, M., Wang, R. and **Wu, Q.** (2025). Risk aversion and insurance propensity. *American Economic Review*, **115**(5), 1597–1649.
 
@@ -37,18 +37,18 @@ Li, L., **Wu, Q.** and Mao, T. (2020). Stochastic comparisons of largest-order s
 
 # **Working Papers**
 
-Côté, B., Wang, R. and **Wu, Q.** (2025). Risk-insurance parity. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2512.09208).
+Côté, B., Wang, R. and **Wu, Q.** (2025). Risk-insurance parity. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2512.09208)
 
-Han, X., Wang, R. and **Wu, Q.*** (2025). Higher-order Gini indices: An axiomatic approach. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2508.10663).
+Han, X., Wang, R. and **Wu, Q.*** (2025). Higher-order Gini indices: An axiomatic approach. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2508.10663)
 
-Bellini, F., Maccheroni, F., Mao, T., Wang, R. and **Wu, Q.** (2025). Disappointment aversion and expectiles. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2508.05541).
+Bellini, F., Maccheroni, F., Mao, T., Wang, R. and **Wu, Q.** (2025). Disappointment aversion and expectiles. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2508.05541)
 
 
-Bellini, F., Mao, T., Wang, R. and **Wu, Q.*** (2024). Disappointment concordance and duet expectiles. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.17751).
+Bellini, F., Mao, T., Wang, R. and **Wu, Q.*** (2024). Disappointment concordance and duet expectiles. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.17751)
 
-**Wu, Q.**, Yang, F. and Zhang, P. (2022). Conditional generalized quantiles based on expected utility model and equivalent characterization of properties. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.12420). 
+**Wu, Q.**, Yang, F. and Zhang, P. (2022). Conditional generalized quantiles based on expected utility model and equivalent characterization of properties. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.12420) 
 
-Wang, R. and **Wu, Q.*** (2020). Dependence and risk attitudes: An equivalence. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707709).
+Wang, R. and **Wu, Q.*** (2020). Dependence and risk attitudes: An equivalence. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707709)
 
 
 
