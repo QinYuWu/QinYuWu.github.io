@@ -43,10 +43,7 @@ Han, X., Wang, R. and **Wu, Q.*** (2025). Higher-order Gini indices: An axiomati
 
 Bellini, F., Maccheroni, F., Mao, T., Wang, R. and **Wu, Q.** (2025). Disappointment aversion and expectiles. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2508.05541)
 
-
 Bellini, F., Mao, T., Wang, R. and **Wu, Q.*** (2024). Disappointment concordance and duet expectiles. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.17751)
-
-**Wu, Q.**, Yang, F. and Zhang, P. (2022). Conditional generalized quantiles based on expected utility model and equivalent characterization of properties. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.12420) 
 
 Wang, R. and **Wu, Q.*** (2020). Dependence and risk attitudes: An equivalence. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707709)
 
