@@ -18,6 +18,7 @@ author_profile: true
 * 5th Waterloo Student Conference in Statistics, Actuarial Science and Finance, Waterloo, Canada (Oct 2024)
 * 66th annual Canadian Operations Research Society conference, Edmonton, Canada (Jun 2025), as the chair in the session of Distributionally Robust Optimization
 * Invited Seminar, School of Management, University of Science and Technology of China, China (Apr 2026)
+* Invited Seminar, Department of Economics, University of Melbourne, Australia (June 2026)
 
 # Peer-review Service
 * Management Science, Operations Research, Mathematical Programming, Mathematics of Operations Research, Journal on Computing, Finance and Stochastics, SIAM Journal on Financial Mathematics, Journal of Mathematical Economics, Mathematics and Financial Economics, ASTIN Bulletin, European Actuarial Journal
