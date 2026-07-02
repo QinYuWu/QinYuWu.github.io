@@ -19,7 +19,7 @@ author_profile: true
 * 66th annual Canadian Operations Research Society conference, Edmonton, Canada (Jun 2025), as the chair in the session of Distributionally Robust Optimization
 * Invited Seminar, School of Management, University of Science and Technology of China, China (Apr 2026)
 * Invited Seminar, Department of Economics, University of Melbourne, Australia (June 2026)
-* 29th International Congress on Insurance: Mathematics and Economics, Sungkyunkwan University, Seoul, Korean (June 29th-July 3th 2026), as the chair in the session of life insurance
+* 29th International Congress on Insurance: Mathematics and Economics, Sungkyunkwan University, Seoul, South Korea (June 29th-July 3th 2026), as the chair in the session of life insurance
 
 # Peer-review Service
 * Management Science, Operations Research, Mathematical Programming, Mathematics of Operations Research, Journal on Computing, Finance and Stochastics, SIAM Journal on Financial Mathematics, Journal of Mathematical Economics, Mathematics and Financial Economics, ASTIN Bulletin, European Actuarial Journal
