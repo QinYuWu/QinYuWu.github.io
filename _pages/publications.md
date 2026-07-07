@@ -5,15 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-Han, X., Wang, R. and **Wu, Q.*** (2026). Monotonic mean-deviation risk measures. *Finance and Stochastics*, forthcoming. [[<span style="color:green">DOI</span>]](https://doi.org/10.1007/s00780-026-00586-8) 
+
+Mao, T., Wang, R. and **Wu, Q.*** (2026). Model aggregation for risk evaluation and robust optimization. *Management Science*, **72**(7), 6350-6367.
+
+**Wu, Q.**, Li, Y. M. J. and Mao, T.* (2026). On generalization and regularization via Wasserstein distributionally robust optimization. *Management Science*, **72**(7), 6104-6119.
+
+Han, X., Wang, R. and **Wu, Q.*** (2026). Monotonic mean-deviation risk measures. *Finance and Stochastics*, **30**, 441-483.
 
 Wang, R. and **Wu, Q.*** (2025). Prudence and higher-order risk attitudes in the rank-dependent utility model. *Journal of Mathematical Economics*, **121**, 103181.
 
-**Wu, Q.**, Li, Y. M. J. and Mao, T.* (2025). On generalization and regularization via Wasserstein distributionally robust optimization. *Management Science*, forthcoming. [[<span style="color:green">DOI</span>]](https://doi.org/10.1287/mnsc.2023.03895)
-
 Champers, C., Miller, A., Wang, R. and **Wu, Q.*** (2025). Max- and min-stability under first-order stochastic dominance. *Mathematics and Financial Economics*, **19**, 641-659. 
-
-Mao, T., Wang, R. and **Wu, Q.*** (2025). Model aggregation for risk evaluation and robust optimization. *Management Science*, forthcoming. [[<span style="color:green">DOI</span>]](https://doi.org/10.1287/mnsc.2023.03523) 
 
 Wang, R. and **Wu, Q.*** (2025). The reference interval in higher-order stochastic dominance. *Economic Theory Bulletin*, 1-15.
 
