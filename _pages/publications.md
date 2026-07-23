@@ -40,7 +40,7 @@ Li, L., **Wu, Q.** and Mao, T. (2020). Stochastic comparisons of largest-order s
 
 Li, Y. M. J. and **Wu, Q.*** (2026). Harnessing heterogeneous data for conditional optimization via optimal transport. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2607.19761)
 
-Côté, B., Wang, R. and **Wu, Q.** (2025). Risk-insurance parity. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2512.09208)
+Côté, B., Wang, R. and **Wu, Q.*** (2025). Risk-insurance parity. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2512.09208)
 
 Han, X., Wang, R. and **Wu, Q.*** (2025). Higher-order Gini indices: An axiomatic approach. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2508.10663)
 
