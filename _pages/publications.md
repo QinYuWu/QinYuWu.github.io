@@ -38,7 +38,7 @@ Li, L., **Wu, Q.** and Mao, T. (2020). Stochastic comparisons of largest-order s
 
 # **Working Papers**
 
-Li, Y. M. J. and **Wu, Q.** (2026). Harnessing heterogeneous data for conditional optimization via optimal transport. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2607.19761)
+Li, Y. M. J. and **Wu, Q.*** (2026). Harnessing heterogeneous data for conditional optimization via optimal transport. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2607.19761)
 
 Côté, B., Wang, R. and **Wu, Q.** (2025). Risk-insurance parity. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2512.09208)
 
