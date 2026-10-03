@@ -48,7 +48,7 @@ Bellini, F., Maccheroni, F., Mao, T., Wang, R. and **Wu, Q.** (2025). Disappoint
 
 Bellini, F., Mao, T., Wang, R. and **Wu, Q.*** (2024). Disappointment concordance and duet expectiles. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.17751)
 
-Wang, R. and **Wu, Q.*** (2020). Dependence and risk attitudes: An equivalence. [[<span style="color:green">SSRN</span>]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707709)
+
 
 
 
