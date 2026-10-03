@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I will join the School of Management at the University of Science and Technology of China (USTC) as a full researcher (equivalent to tenure-track assistant professor) in 2026.
+* I will join the School of Management at the University of Science and Technology of China (USTC) as a full researcher (equivalent to tenure-track Assistant Professor) in 2026.
 * I am a postdoctoral associate (September 1, 2025 – August 31, 2026) in the Center for Algorithms, Data, and Market Design at Yale (CADMY), Yale University, supervised by Prof. [Dirk Bergemann](https://economics.yale.edu/people/dirk-bergemann).
 * I completed a six-month postdoctoral fellowship (March 1 – August 31, 2025) at Telfer School of Management, University of Ottawa, supervised by Prof. [Jonathan Yu-Meng Li](https://telfer.uottawa.ca/en/directory/jonathan-yumeng-li/).
 * I completed a two-year postdoctoral fellowship (March 1, 2023 – February 28, 2025) in the Department of Statistics and Actuarial Science at the University of Waterloo, supervised by Prof. [Ruodu Wang](http://sas.uwaterloo.ca/~wang/).
