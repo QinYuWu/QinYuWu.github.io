@@ -23,4 +23,4 @@ redirect_from:
 
 # Contacts
 * Email: wu051555@mail.ustc.edu.cn
-** Address: Rm B137, 28 Hillhouse Avenue, New Haven CT 06511, USA
+<!--* Address: Rm B137, 28 Hillhouse Avenue, New Haven CT 06511, USA-->
