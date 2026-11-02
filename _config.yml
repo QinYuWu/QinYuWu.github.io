@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qinyu Wu's Webpage"
 title_separator          : "-"
 name                     : &name "Qinyu Wu"
-description              : &description "Postdoctoral fellow, Department of Statistics and Actuarial Science, University of Waterloo"
+description              : &description "full researcher (equivalent to tenure-track Assistant Professor), School of Management at the University of Science and Technology of China (USTC)"
 url                      : https://qinyuwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qinyuwu/qinyuwu.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Qinyu Wu"
   avatar           : "Photo1.jpg"
-  bio              : "Postdoctoral associate, Center for Algorithms, Data, and Market Design at Yale (CADMY), Yale University"
-  location         : "New Haven, CT, USA"
+  bio              : "full researcher (equivalent to tenure-track Assistant Professor), School of Management, University of Science and Technology of China (USTC)"
+  location         : "Hefei, Anhui, China"
   employer         :
   googlescholar    : #"https://scholar.google.ca/citations?user=vboPnRoAAAAJ&hl=en"
-  email            : "qinyu.wu@yale.edu"
+  email            : "wu051555@mail.ustc.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
