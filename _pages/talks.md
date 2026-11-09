@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Academic Visits
+* University of Waikato (School of Management), Sep 2026
 * Monash University (Department of Econometrics and Business Statistics), Aug 25th-30th 2026
 * University of New South Wales (School of Risk and Actuarial Studies), Aug 18th-25th 2026
 * University of Melbourne (Department of Economics), June 22th-26th 2026
@@ -13,7 +14,9 @@ author_profile: true
 
 
 # Contributed Academic Presentations
-* Invited Seminar, School of Risk and Actuarial Studies, University of New South Wales, Australia (Aug 2026).
+* 8th Northern China Regional Workshop on Statistics and Optimization, Fuzhou University, China (Nov 6th-8th 2026)
+* Invited Seminar, College of Economics and Management, Fujian Agriculture and Forestry University, China (Nov 6th 2026).
+* Invited Seminar, School of Risk and Actuarial Studies, University of New South Wales, Australia (Aug 20th 2026).
 * 29th International Congress on Insurance: Mathematics and Economics, Sungkyunkwan University, Seoul, South Korea (June 29th-July 3th 2026), as the chair in the session of life insurance
 * Invited Seminar, Department of Economics, University of Melbourne, Australia (June 2026)
 * Invited Seminar, School of Management, University of Science and Technology of China, China (Apr 2026)
